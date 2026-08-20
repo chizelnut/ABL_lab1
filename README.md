@@ -18,7 +18,7 @@ Google Colab, and you can run it. Nothing to install.
 
 | | Notebook | What it adds |
 |---|---|---|
-| **3** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/03_Handwriting_FULL_selfstudy.ipynb) **03 — Handwriting, full version** | The long self-study version: look at the digits the model gets *wrong*, upload a photo of real pen-on-paper handwriting, and the homework. |
+| **3** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/03_Going_Further.ipynb) **03 — Going Further** | Picks up where Project 2 stopped. Find the digits it gets **wrong** and work out why · feed it a **photo** of real pen-and-paper handwriting · break it on purpose. The optional take-it-further challenges are in here. |
 
 ---
 
@@ -29,13 +29,17 @@ Google Colab, and you can run it. Nothing to install.
 3. Go to **Runtime → Change runtime type** and pick **CPU**. We do not need a GPU today.
 4. Run cells with **Shift + Enter**, in order, top to bottom. If you skip one, later cells break.
 
-## Homework
+## Optional — take it further on your own
+
+**All optional. Nothing to hand in.** These are for you, not for marks — the questions are
+the point, not the code.
 
 1. Write all ten digits 0–9 by hand and test each one on your model. Find one it gets
    wrong and write down *why* you think it failed — look at "what the model actually sees".
 2. Change **one** thing in the model (`Dense(128)` → `Dense(16)`, delete the `Dropout`,
-   or set `epochs=1`), re-run, and record what happened to the test accuracy.
+   or set `epochs=1`), re-run, and see what happens to the test accuracy.
    One change at a time. If you change three things at once you learn nothing about any of them.
+3. Found something surprising? Post it in the class WhatsApp group.
 
 ## Data
 
