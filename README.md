@@ -11,14 +11,14 @@ Google Colab, and you can run it. Nothing to install.
 
 | | Notebook | What you build |
 |---|---|---|
-| **1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_Aug_23/blob/main/notebooks/01_Crime_Prediction_ANN.ipynb) **01 — Crime Prediction** | A network that predicts a city's crime rate from five facts about it. *Regression: how much?* |
-| **2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_Aug_23/blob/main/notebooks/02_Handwriting_MNIST_ANN.ipynb) **02 — Handwriting** | A network that reads handwritten digits, including one you draw with your mouse. *Classification: which one?* |
+| **1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/01_Crime_Prediction_ANN.ipynb) **01 — Crime Prediction** | A network that predicts a city's crime rate from five facts about it. *Regression: how much?* |
+| **2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/02_Handwriting_MNIST_ANN.ipynb) **02 — Handwriting** | A network that reads handwritten digits, including one you draw with your mouse. *Classification: which one?* |
 
 ## Take home
 
 | | Notebook | What it adds |
 |---|---|---|
-| **3** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_Aug_23/blob/main/notebooks/03_Handwriting_FULL_selfstudy.ipynb) **03 — Handwriting, full version** | The long self-study version: look at the digits the model gets *wrong*, upload a photo of real pen-on-paper handwriting, and the homework. |
+| **3** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/03_Handwriting_FULL_selfstudy.ipynb) **03 — Handwriting, full version** | The long self-study version: look at the digits the model gets *wrong*, upload a photo of real pen-on-paper handwriting, and the homework. |
 
 ---
 
