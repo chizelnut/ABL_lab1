@@ -9,10 +9,17 @@ Google Colab, and you can run it. Nothing to install.
 
 ## Today's two projects
 
-| | Notebook | What you build |
+Each project comes in **two versions of the same code**. They run identically — pick whichever
+suits you.
+
+| | Explained version — diagrams and reasoning | Code only — for following along in class |
 |---|---|---|
-| **1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/01_Crime_Prediction_ANN.ipynb) **01 — Crime Prediction** | A network that predicts a city's crime rate from five facts about it. *Regression: how much?* |
-| **2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/02_Handwriting_MNIST_ANN.ipynb) **02 — Handwriting** | A network that reads handwritten digits, including one you draw with your mouse. *Classification: which one?* |
+| **1 · Crime prediction** *(regression: how much?)* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/01_Crime_Prediction_ANN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/01_Crime_Prediction_CODE_ONLY.ipynb) |
+| **2 · Handwriting** *(classification: which one?)* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/02_Handwriting_MNIST_ANN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chizelnut/ABL_lab1/blob/main/notebooks/02_Handwriting_CODE_ONLY.ipynb) |
+
+**In class, use the code-only version** — less scrolling, so we all stay on the same cell.
+**Afterwards, open the explained version** — same code, plus the diagrams and the reasoning
+behind every line. That is the one to read when you want to actually understand it.
 
 ## Take home
 
